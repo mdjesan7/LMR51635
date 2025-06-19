@@ -13,3 +13,5 @@ Max Output Current: Up to 3.5A (depending on thermal and layout considerations)
 Switching Frequency: 200kHz to 2.2MHz (default: 500kHz)
 
 Compact Layout with Optimized Thermal Performance
+![lmr51635_3d](https://github.com/user-attachments/assets/d670a091-6655-492b-9bc1-b510b84eeaa6)
+![lmr51635_layout](https://github.com/user-attachments/assets/720ce123-5ecf-4464-b883-33b2847cfe1c)
